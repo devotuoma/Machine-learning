@@ -5,8 +5,7 @@ import numpy as np
 from sklearn import svm  
 # visual your data
 import matplotlib.pyplot as plt
-import seaborn as sns;sns.set(font_scale=1.2)
-%matplotlib inline
+import seaborn as sns;sns.set(font_scale
 ```
 
 
