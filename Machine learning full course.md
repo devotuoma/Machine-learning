@@ -810,7 +810,7 @@ print (df. corr())
 
 
 ```python
-#Simple scatter plot
+#Simple scatter plotting
 df.plot(kind='scatter', x='Income', y='Total Claim Amount', title='Income vs Total Claim Amount')
 ```
 
