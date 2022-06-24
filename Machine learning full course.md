@@ -1,5 +1,5 @@
 ```python
-# Surport vector machine algorithm
+# Surport vector machine 
 import pandas as pd
 import numpy as np 
 from sklearn import svm  
